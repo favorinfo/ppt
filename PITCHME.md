@@ -1,11 +1,17 @@
 # helm基本介绍
-@snap [west span-50] 
+
+@snap[west span-50]
 ### 刘健
 ### 2019-05-24
 @snapend
 
 ---
+
+page 1
+
 ---
+
+page 2
 
 ---
 
