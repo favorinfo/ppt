@@ -1,10 +1,10 @@
 ----?image=assets/img/bg1.jpg
-@title
+
 #helm基本介绍
 
-@snap[west span-50]
-### 刘健
-### 2019-05-24
+@snap[east span-50]
+#### 刘健
+##### 2019-05-24
 @snapend
 
 ---
