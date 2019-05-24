@@ -1,3 +1,4 @@
+----?image=assets/img/bg1.jpg
 @title
 #helm基本介绍
 
