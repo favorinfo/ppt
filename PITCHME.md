@@ -1,4 +1,7 @@
-# Let's Get Started
+# helm
+### 刘健
+### 2019-05-24
+---
 
 ---
 
@@ -46,3 +49,10 @@
 @snap[south span-100 text-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
+
+
+---
+
+### 谢谢观看
+    
+
