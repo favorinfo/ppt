@@ -1,7 +1,7 @@
 
 # Rancher Rio
 
-- [官网github](https://github.com/rancher/rio)
+- 官网[github](https://github.com/rancher/rio)
 - 刘健
 - 20190527
 
@@ -34,7 +34,9 @@
 ---
 
 ### 架构
+
 加速集群中部署、管理、扩展和编写无状态的应用程序。
+
 ![](https://oscimg.oschina.net/oscnet/a7af55bd13d3756d16e876284cb2d4ea946.jpg) 
 
 ---
@@ -141,23 +143,28 @@ KNATIVE 结构划分
 ### 使用方法
 
 +++
-# 安装
+#### 安装
 $ rio install
 
 +++
 
-# 状态确定
+#### 状态确定
 $ kubectl get po -n rio-system
 
 +++
 
-# 运行
+#### 运行
 $ rio run https://github.com/rancher/rio-demo
 
 +++
 
-# 状态监测
+#### 状态监测
 $ rio ps
 $ rio console
 $ rio info
+
+---
+
+谢谢观看
+
 
